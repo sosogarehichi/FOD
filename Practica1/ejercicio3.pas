@@ -242,7 +242,7 @@ type
 				end;
 				4:
 				begin
-					
+					writeln('No lo hice jijo');
 				end;
 				5:
 				begin
